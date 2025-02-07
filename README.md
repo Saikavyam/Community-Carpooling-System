@@ -74,6 +74,6 @@ Community Carpooling is a web-based platform that allows users to share rides ef
 This project is licensed under the MIT License.
 
 ## 📞 Contact
-For any queries, reach out at [your-email@example.com](mailto:8.saikavya12@gmail.com).
+For any queries, reach out at (mailto:8.saikavya12@gmail.com).
 
 
